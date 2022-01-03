@@ -38,8 +38,8 @@ public class Database {
     public Database()
     {
         this.DBURL = "jdbc:mysql://localhost:3306/ensf480"; 
-        this.USERNAME = "root"; 
-        this.PASSWORD = "Tennis%&"; 
+        this.USERNAME = "YOURUSERNAME"; 
+        this.PASSWORD = "YOURPASSWORD"; 
         if (initializeConnection())
         {
             //System.out.println("connected");
