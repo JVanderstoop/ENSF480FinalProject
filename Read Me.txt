@@ -1,0 +1,24 @@
+This is the ENSF480 Final Project submission package for group 20. To run the program, you must change some attributes first.
+
+1. in bin/database/Database.java, you must update the DBURL, USERNAME, and PASSWORD values in the constructor to fit your MySQL setup.
+
+2. you must create the database as given in lib/database and you can also implement the test queries to test requirements. 
+
+		Please Ensure that you recompile the Database.java code after completing these steps. 
+
+
+The program will run and meets all requirements, as shown in the submission video. However the longer the program runs the
+ more likely it is to have a glitchy GUI do to the heavy operation load, this is easily fixed by restarting the program 
+ for every test case you would like to do. 
+
+As requested, there is a .jar file in this package to run the program. However the source codes have also been provided in thier
+ respective directories.
+
+To run the program from the command line, without the .jar file, do as follows.
+1. enter the folder where only bin, lib, this Read Me, and the .jar are visible
+2. enter the following commands: 
+	to compile: javac -cp .:lib/mysql-connector-java-8.0.23.jar bin/control/*.java bin/database/*.java bin/gui/*.java bin/domain/*.java
+      
+      	to run: java -cp .;lib/mysql-connector-java-8.0.23.jar bin/gui/Main
+
+
