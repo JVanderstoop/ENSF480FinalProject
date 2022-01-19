@@ -1,6 +1,6 @@
 /**
  * EmailController.java found in bin/control directory
- * @author Karl Winkler - Karl.Winkler@ucalgary.ca - UCID: 30088699
+ * @author Karl Winkler - Karl.Winkler@ucalgary.ca 
  * written for ENSF 480 Final Project
  */
 package bin.control;
