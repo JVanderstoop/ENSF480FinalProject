@@ -1,6 +1,6 @@
 /**
  * Main.java found in bin/gui directory
- * @author Josh Vanderstoop- joshua.vanderstoop@ucalgary.ca - UCID: 30101947
+ * @author Josh Vanderstoop- joshua.vanderstoop@ucalgary.ca 
  * written for ENSF 480 Final Project
  */
 package bin.gui; 
