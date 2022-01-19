@@ -1,7 +1,7 @@
 /**
  * LoginController.java found in bin/control directory
- * @author Karl Winkler - Karl.Winkler@ucalgary.ca - UCID: 30088699
- * @editor Josh Vanderstoop- joshua.vanderstoop@ucalgary.ca - UCID: 30101947
+ * @author Karl Winkler - Karl.Winkler@ucalgary.ca 
+ * @editor Josh Vanderstoop- joshua.vanderstoop@ucalgary.ca
  * written for ENSF 480 Final Project
  */
 package bin.control;
